@@ -4,6 +4,7 @@ This directory will contain copies of all of my public speaking presentations an
 
 - https://www.carbonblack.com/author/ryan-nolette/
 - https://www.linkedin.com/in/ryannolette
+- https://www.youtube.com/watch?v=FChiAjZbHTE #cryptolocker presentation
 
 
 **NOTE: All presentations are saved as PDF's with notes. This means you will not get the automation, animation, and there is image overlap. If you find a slide that you want formatted differently, please reach out to me and I will upload a modified PDF for you to read.**
