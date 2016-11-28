@@ -22,7 +22,7 @@ Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from mor
 
 ## previous speaking engagements
 | Engagement/Conference | Location | Date  |
-| ------------- |-------------| -----|
+| ----------------------------------------- | --------------------- | ---------------- |
 | RIT Security talks and student outreach | Rochester, New York | June 2014 |
 | ISC2 Secure Dallas | Dallas, Texas | October 2014 |
 |Boston CyberSecurity Symposium | Boston, Ma | December 2014 |
