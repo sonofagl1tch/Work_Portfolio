@@ -16,10 +16,9 @@ This directory will contain copies of all of my public speaking presentations an
 
 ## bio
 Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from more than decade of intense and active Incident Response (IR), Threat Research, and IT experience to add a unique perspective of technical expertise and strategic vision to Carbon Black. Prior to running SecOps, Ryan was a Senior Threat Researcher and Senior Incident Response Consultant for Carbon Black and previous companies.
-
-https://www.linkedin.com/in/ryannolette 
-https://www.carbonblack.com/author/ryan-nolette/ 
-https://github.com/sonofagl1tch 
+- https://www.linkedin.com/in/ryannolette 
+- https://www.carbonblack.com/author/ryan-nolette/ 
+- https://github.com/sonofagl1tch 
 
 ## previous speaking engagements
 | Engagement/Conference | Location | Date  |
