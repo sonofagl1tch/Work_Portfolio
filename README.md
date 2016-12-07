@@ -37,7 +37,7 @@ Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from mor
 | Carbon Black user exchange | NYC, NY | May 2016 | 
 | 2016 Bsides Boston | Boston, Ma https://www.youtube.com/watch?v=FChiAjZbHTE  | May 2016  | 
 | SANs DFIR | Austin, Texas https://www.sans.org/event/digital-forensics-summit-2016 | June 2016 | 
-| 2016 HTCIA Las Vegas https://htcia.org/ | Las Vegas, NV | August 2016 | 
+| 2016 HTCIA Las Vegas | Las Vegas, NV https://htcia.org/ | August 2016 | 
 | ACSC  | Boston, Ma | August 2016 | 
 | ACSC  | Boston, Ma | September 2016 | 
 | DarkReadings Webinar | Online https://webinar.darkreading.com/2272  http://event.on24.com/r.htm?e=1244118&s=1&k=ACE4868B5AC5284E51BFC53F65E38926  | September 2016 | 
