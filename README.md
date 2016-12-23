@@ -20,7 +20,7 @@ Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from mor
 - https://www.carbonblack.com/author/ryan-nolette/ 
 - https://github.com/sonofagl1tch 
 
-## previous speaking engagements
+## previous speaking engagements #
 | Engagement/Conference | Location | Date  |
 | ----------------------------------------- | --------------------- | ---------------- |
 | RIT Security talks and student outreach | Rochester, New York | June 2014 |
