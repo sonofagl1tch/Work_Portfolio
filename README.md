@@ -45,4 +45,6 @@ Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from mor
 | ACSC | Boston, MA | November 2016 |
 | HIMSS Privacy & Security Forum | Boston, MA http://www.healthprivacyforum.com/boston/2016/sponsorship/for-sponsors/sponsor-services6 | Decemeber 2016 |
 | The Infosecurity Magazine Conference | Boston, MA http://www.infosecurity-magazine.com/conferences/boston-agile-cybersecurity/ | December 2016 | 
-
+| Opensec Hacksecure | Boston, MA http://opensec.hacksecure.org/ | May 2017
+| Hunter Profile | brighttalk https://www.brighttalk.com/webcast/15393/257671?utm_campaign=knowledge-feed&utm_source=brighttalk-portal&utm_medium=web | May 2017
+| Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017
