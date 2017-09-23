@@ -1,7 +1,7 @@
 # PresentationsAndBlogs
 This directory will contain copies of all of my public speaking presentations and blog posts
 
-
+- https://github.com/sonofagl1tch 
 - https://www.carbonblack.com/author/ryan-nolette/
 - https://www.linkedin.com/in/ryannolette
 - https://www.youtube.com/watch?v=FChiAjZbHTE #Bsides Boston - cryptolocker presentation
@@ -15,9 +15,8 @@ This directory will contain copies of all of my public speaking presentations an
 
 
 ## bio
-Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from more than decade of intense and active Incident Response (IR), Threat Research, and IT experience to add a unique perspective of technical expertise and strategic vision to Carbon Black. Prior to running SecOps, Ryan was a Senior Threat Researcher and Senior Incident Response Consultant for Carbon Black and previous companies.
+Ryan is Sqrrl's primary security technologist and expert. He has previously held a variety of roles including threat research, incident response consulting, and every level of security operations. With over a decade in the infosec field, Ryan has been on the product and operations side of companies such as Carbon Black, Crossbeam Systems, SecureWorks and Fidelity Investments. Ryan has been an active speaker and writer on threat hunting and endpoint security.
 - https://www.linkedin.com/in/ryannolette 
-- https://www.carbonblack.com/author/ryan-nolette/ 
 - https://github.com/sonofagl1tch 
 
 ## previous speaking engagements
@@ -48,3 +47,4 @@ Ryan Nolette, is the Security Operations Lead at Carbon Black and draws from mor
 | Opensec Hacksecure | Boston, MA http://opensec.hacksecure.org/ | May 2017
 | Hunter Profile | brighttalk https://www.brighttalk.com/webcast/15393/257671?utm_campaign=knowledge-feed&utm_source=brighttalk-portal&utm_medium=web | May 2017
 | Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017
+| Threat Hunting for Lateral Movement: Derbycon Edition | https://www.derbycon.com/ | September 2017
