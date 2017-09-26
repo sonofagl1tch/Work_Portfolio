@@ -47,4 +47,4 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | Opensec Hacksecure | Boston, MA http://opensec.hacksecure.org/ | May 2017
 | Hunter Profile | brighttalk https://www.brighttalk.com/webcast/15393/257671?utm_campaign=knowledge-feed&utm_source=brighttalk-portal&utm_medium=web | May 2017
 | Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017
-| Threat Hunting for Lateral Movement: Derbycon Edition | Louisville, Kentucky https://www.derbycon.com/ | September 2017
+| Threat Hunting for Lateral Movement: Derbycon Edition | Louisville, Kentucky https://www.derbycon.com/ https://www.youtube.com/watch?v=YFBHkRrARMI | September 2017
