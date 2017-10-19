@@ -49,4 +49,4 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017
 | Threat Hunting for Lateral Movement: Derbycon Edition | Louisville, Kentucky https://www.derbycon.com/ https://www.youtube.com/watch?v=YFBHkRrARMI | September 2017
 | Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | http://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective | September 2017
-| joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment  | https://www.carbonblack.com/resource/threat-hunting-experts-hunt-lateral-movement-environment/ | October 2017 |
+| joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment  | https://www.youtube.com/watch?v=Cfln8zHTZvw&feature=youtu.be https://www.carbonblack.com/resource/threat-hunting-experts-hunt-lateral-movement-environment/ | October 2017 |
