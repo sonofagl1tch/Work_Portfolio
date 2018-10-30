@@ -4,10 +4,6 @@ This directory will contain copies of all of my public speaking presentations an
 - https://github.com/sonofagl1tch 
 - https://www.carbonblack.com/author/ryan-nolette/
 - https://www.linkedin.com/in/ryannolette
-- https://www.youtube.com/watch?v=FChiAjZbHTE #Bsides Boston - cryptolocker presentation
-- https://www.youtube.com/watch?v=9Vj-CzvgENs #forensic lunch
-- https://www.youtube.com/watch?v=D4KtKQiSFUk #bsidesCLT
-
 
 **NOTE: All presentations are saved as PDF's with notes. This means you will not get the automation, animation, and there is image overlap. If you find a slide that you want formatted differently, please reach out to me and I will upload a modified PDF for you to read.**
 
@@ -44,11 +40,13 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | ACSC | Boston, MA | November 2016 |
 | HIMSS Privacy & Security Forum | Boston, MA http://www.healthprivacyforum.com/boston/2016/sponsorship/for-sponsors/sponsor-services6 | Decemeber 2016 |
 | The Infosecurity Magazine Conference | Boston, MA http://www.infosecurity-magazine.com/conferences/boston-agile-cybersecurity/ | December 2016 | 
-| Opensec Hacksecure | Boston, MA http://opensec.hacksecure.org/ | May 2017
-| Hunter Profile | brighttalk https://www.brighttalk.com/webcast/15393/257671?utm_campaign=knowledge-feed&utm_source=brighttalk-portal&utm_medium=web | May 2017
-| Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017
-| Threat Hunting for Lateral Movement: Derbycon Edition | Louisville, Kentucky https://www.derbycon.com/ https://www.youtube.com/watch?v=YFBHkRrARMI | September 2017
+| Opensec Hacksecure | Boston, MA http://opensec.hacksecure.org/ | May 2017 |
+| Hunter Profile | brighttalk https://www.brighttalk.com/webcast/15393/257671?utm_campaign=knowledge-feed&utm_source=brighttalk-portal&utm_medium=web | May 2017 |
+| Webinar on Threat Hunting for Lateral Movement | gotowebinar http://info.sqrrl.com/threat-hunting-lateral-movement | May 2017 |
+| Threat Hunting for Lateral Movement: Derbycon Edition | Louisville, Kentucky https://www.derbycon.com/ https://www.youtube.com/watch?v=YFBHkRrARMI | September 2017 |
 | Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | http://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective | September 2017
 | joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment  | https://www.youtube.com/watch?v=Cfln8zHTZvw&feature=youtu.be https://www.carbonblack.com/resource/threat-hunting-experts-hunt-lateral-movement-environment/ | October 2017 |
-|CyberThreat 2018 | London, England https://www.cyberthreat2018.com/ | Feburary 2018 |
-
+| CyberThreat 2018 | London, England https://www.cyberthreat2018.com/ | Feburary 2018 |
+| Sans Threat Hunting Summit 2018 - Threat Hunting in the cloud | New Orleans, Lousiana https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
+| Sans Threat Hunting Summit 2018 - Lightning talk | New Orleans, Lousiana https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
+|Amazon AWS Security Summit 2018 | London, England | October 2018 |
