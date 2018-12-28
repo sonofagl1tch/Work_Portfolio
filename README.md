@@ -47,6 +47,6 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | http://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective | September 2017
 | joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment  | https://www.youtube.com/watch?v=Cfln8zHTZvw&feature=youtu.be https://www.carbonblack.com/resource/threat-hunting-experts-hunt-lateral-movement-environment/ | October 2017 |
 | CyberThreat 2018 | London, England https://www.cyberthreat2018.com/ | Feburary 2018 |
-| Sans Threat Hunting Summit 2018 - Threat Hunting in the cloud | New Orleans, Lousiana https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
+| Sans Threat Hunting Summit 2018 - Threat Hunting in the cloud | New Orleans, Lousiana https://youtu.be/x4OJx2M52iI - https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
 | Sans Threat Hunting Summit 2018 - Lightning talk | New Orleans, Lousiana https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
 |Amazon AWS Security Summit 2018 | London, England | October 2018 |
