@@ -50,3 +50,7 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | Sans Threat Hunting Summit 2018 - Threat Hunting in the cloud | New Orleans, Lousiana https://youtu.be/x4OJx2M52iI - https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
 | Sans Threat Hunting Summit 2018 - Lightning talk | New Orleans, Lousiana https://www.sans.org/event/threat-hunting-and-incident-response-summit-2018 | September 2018|
 |Amazon AWS Security Summit 2018 | London, England | October 2018 |
+| HTCIA New England Chapter quarterly meeting - Threat Hunting in the cloud | Boston, MA | October 2018 |
+| WHACK, the Wellesley College hackathon - mentor and teacher of security topics | Boston, MA | November 2018 |
+| SANs Cloud Security Summit 2019 | San Diego, California https://www.sans.org/event/cloud-security-summit-2019/summit-agenda | April 2019 |
+| BSides NH 2019 | Manchester, NH http://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/ | May 2019 |
