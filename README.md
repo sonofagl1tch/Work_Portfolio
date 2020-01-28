@@ -52,5 +52,5 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 |Amazon AWS Security Summit 2018 | London, England | October 2018 |
 | HTCIA New England Chapter quarterly meeting - Threat Hunting in the cloud | Boston, MA | October 2018 |
 | WHACK, the Wellesley College hackathon - mentor and teacher of security topics | Boston, MA | November 2018 |
-| SANs Cloud Security Summit 2019 | San Diego, California https://www.sans.org/event/cloud-security-summit-2019/summit-agenda | April 2019 |
+| SANs Cloud Security Summit 2019 | San Diego, California https://www.sans.org/event/cloud-security-summit-2019/summit-agenda https://youtu.be/H2v65iTKcqw | April 2019 |
 | BSides NH 2019 | Manchester, NH http://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/ | May 2019 |
