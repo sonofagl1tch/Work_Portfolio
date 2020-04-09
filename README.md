@@ -1,6 +1,7 @@
 # PresentationsAndBlogs
 This directory will contain copies of all of my public speaking presentations and blog posts
 
+- **published author** - https://www.threathunting.net/files/huntpedia.pdf
 - https://github.com/sonofagl1tch 
 - https://www.carbonblack.com/author/ryan-nolette/
 - https://www.linkedin.com/in/ryannolette
