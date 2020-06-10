@@ -56,5 +56,5 @@ Ryan is Sqrrl's primary security technologist and expert. He has previously held
 | SANs Cloud Security Summit 2019 | San Diego, California https://www.sans.org/event/cloud-security-summit-2019/summit-agenda https://youtu.be/H2v65iTKcqw | April 2019 |
 | BSides NH 2019 | Manchester, NH http://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/ | May 2019 |
 | Cloud Security Aliance Boston chapter | Virtual https://youtu.be/O5G_2gH21GE | April 2020 |
-| Perimiter81: Beyond the Perimeter Podcast | Podcast | https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-01-turning-a-hobby-into-a-career/?utm_source=Facebook&utm_medium=Post&utm_campaign=2020_P81_Facebook_Organic | June 2020 |
+| Perimiter81: Beyond the Perimeter Podcast | Podcast https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-01-turning-a-hobby-into-a-career/?utm_source=Facebook&utm_medium=Post&utm_campaign=2020_P81_Facebook_Organic | June 2020 |
 
