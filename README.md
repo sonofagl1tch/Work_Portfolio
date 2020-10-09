@@ -12,7 +12,7 @@ This directory will contain copies of all of my public speaking presentations an
 
 
 ## bio
-Ryan is Sqrrl's primary security technologist and expert. He has previously held a variety of roles including threat research, incident response consulting, and every level of security operations. With over a decade in the infosec field, Ryan has been on the product and operations side of companies such as Carbon Black, Crossbeam Systems, SecureWorks and Fidelity Investments. Ryan has been an active speaker and writer on threat hunting and endpoint security.
+Ryan is Postman's Security Tech lead and CoAuthor of AWS Detective. He has previously held a variety of roles including threat research, incident response consulting, and every level of security operations. With over a decade in the infosec field, Ryan has been on the product and operations side of companies such as Amazon AWS, Sqrrl, Carbon Black, Crossbeam Systems, SecureWorks and Fidelity Investments. Ryan has been an active speaker and writer on threat hunting and endpoint security.
 - https://www.linkedin.com/in/ryannolette 
 - https://github.com/sonofagl1tch 
 
