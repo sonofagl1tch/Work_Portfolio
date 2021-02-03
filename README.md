@@ -57,4 +57,6 @@ Ryan is Postman's Security Tech lead and CoAuthor of AWS Detective. He has previ
 | BSides NH 2019 | Manchester, NH http://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/ | May 2019 |
 | Cloud Security Aliance Boston chapter | Virtual https://youtu.be/O5G_2gH21GE | April 2020 |
 | Perimiter81: Beyond the Perimeter Podcast | Podcast https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-01-turning-a-hobby-into-a-career/?utm_source=Facebook&utm_medium=Post&utm_campaign=2020_P81_Facebook_Organic | June 2020 |
-
+| OSquery@Scale 2021 | https://www.osqueryatscale.com/ | January 2021 |
+| Postman Galaxy 2021 - Leveraging Postman Collections to Facilitate Security Services Interactions | https://www.postman.com/postman-galaxy/ | January 2021 |
+| Postman Galaxy 2021 - Leveraging Postman for Security Testing | https://www.postman.com/postman-galaxy/ | January 2021 |
