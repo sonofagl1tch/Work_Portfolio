@@ -60,3 +60,4 @@ Ryan is Postman's Security Tech lead and CoAuthor of AWS Detective. He has previ
 | OSquery@Scale 2021 | https://www.youtube.com/watch?v=b81zSQ5MsDk | January 2021 |
 | Postman Galaxy 2021 - Leveraging Postman Collections to Facilitate Security Services Interactions | https://www.postman.com/postman-galaxy/postman-collections-facilitate-security-services-interactions/ | January 2021 |
 | Postman Galaxy 2021 - Leveraging Postman for Security Testing | https://www.postman.com/postman-galaxy/leveraging-postman-for-security-testing/ | January 2021 |
+| SANS CloudSecNext Summit 2021 - Doing Bad Things for Good Reasons: Leveraging Free Tools for Security Testing | https://www.youtube.com/watch?v=Ni9rkQ4Olko | June 2021 |
