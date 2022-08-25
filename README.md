@@ -62,3 +62,4 @@ Ryan is Postman's Security Tech lead and CoAuthor of AWS Detective. He has previ
 | Postman Galaxy 2021 - Leveraging Postman for Security Testing | https://www.postman.com/postman-galaxy/leveraging-postman-for-security-testing/ | January 2021 |
 | SANS CloudSecNext Summit 2021 - Doing Bad Things for Good Reasons: Leveraging Free Tools for Security Testing | https://www.youtube.com/watch?v=Ni9rkQ4Olko | June 2021 |
 | AWS ReInforce: AWS on Air Live | I start at the hour and thirty minute mark: https://twitter.com/AWSonAir/status/1552281442704429057?s=20&t=4G7o3JRm_QFypn0kPhjB6g | July 2022 |
+| Cloud-native Defense in Depth | https://assets.sentinelone.com/cloud-security/wbr-cloud-native-defense-in-depth | August 2022 |
