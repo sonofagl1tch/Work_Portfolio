@@ -1,4 +1,4 @@
-# PresentationsAndBlogs
+# Work Portfolio and content repo
 This directory will contain copies of all of my public speaking presentations and blog posts
 
 - **published author** - https://www.threathunting.net/files/huntpedia.pdf
