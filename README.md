@@ -13,7 +13,7 @@ This directory will contain copies of all of my public speaking presentations an
 
 ## bio
 Ryan is AWS's Senior Security Engineer for the Outreach Team and CoAuthor of AWS Detective. He has previously held a variety of roles including threat research, incident response consulting, and every level of security operations. With over a decade in the infosec field, Ryan has been on the product and operations side of companies such as Postman, Sqrrl, Carbon Black, Crossbeam Systems, SecureWorks and Fidelity Investments. Ryan has been an active speaker and writer on threat hunting and endpoint security.
-- https://www.linkedin.com/in/ryannolette 
+- www.linkedin.com/in/cloudy-with-a-chance-of-security
 - https://github.com/sonofagl1tch 
 
 ## previous speaking engagements
