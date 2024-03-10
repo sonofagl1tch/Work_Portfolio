@@ -4,7 +4,7 @@ This directory will contain copies of all of my public speaking presentations an
 - **published author** - https://www.threathunting.net/files/huntpedia.pdf
 - https://github.com/sonofagl1tch 
 - https://www.carbonblack.com/author/ryan-nolette/
-- https://www.linkedin.com/in/ryannolette
+- www.linkedin.com/in/cloudy-with-a-chance-of-security
 
 **NOTE: All presentations are saved as PDF's with notes. This means you will not get the automation, animation, and there is image overlap. If you find a slide that you want formatted differently, please reach out to me and I will upload a modified PDF for you to read.**
 
