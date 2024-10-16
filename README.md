@@ -64,3 +64,5 @@ Ryan is AWS's Senior Security Engineer for the Outreach Team and CoAuthor of AWS
 | AWS ReInforce: AWS on Air Live | I start at the hour and thirty minute mark: https://twitter.com/AWSonAir/status/1552281442704429057?s=20&t=4G7o3JRm_QFypn0kPhjB6g | July 2022 |
 | Cloud-native Defense in Depth | https://assets.sentinelone.com/cloud-security/wbr-cloud-native-defense-in-depth | August 2022 |
 | What's Next | Spoke to college class of Cyber and Criminal Justice majors on next steps in career and answered questions. | Novemeber 2022 |
+| FWD:Cloudsec EU 2024 inugural conference | https://youtu.be/JINXKN9NZmY | September 2021 |
+| Screaming in the Cloud | TBD | October 2021 |
