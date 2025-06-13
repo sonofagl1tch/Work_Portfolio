@@ -67,3 +67,4 @@ Ryan is AWS's Senior Security Engineer for the Outreach Team and CoAuthor of AWS
 | FWD:Cloudsec EU 2024 inugural conference | https://youtu.be/JINXKN9NZmY | September 2024 |
 | Screaming in the Cloud | https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/disclosing-vulnerabilities-in-the-cloud-with-ryan-nolette/ | October 2024 |
 | The DOs and DON'Ts when conducting security testing in AWS | https://www.youtube.com/live/qxHy0tZhC-U?si=YKoDRtaZoL_vRiUR | Feburary 2025 |
+| From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | https://youtu.be/OYH8qbUueaI?si=n6yuH0Fo9O8fyo-O | April 9 |
